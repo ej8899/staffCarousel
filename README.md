@@ -63,7 +63,7 @@ This lightweight SharePoint Framework (SPFx) web part dynamically displays staff
 
 ## 📸 Preview
 
-Coming soon – I will add a screenshot or GIF here!
+![Staff Carousel Preview](spfx-staff.png)
 
 ---
 
