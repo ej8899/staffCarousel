@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "staff-carousel-client-side-solution",
+    "id": "9662d5de-59bd-41ed-ac7d-ccdb98970eba",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "staffCarousel description"
+      },
+      "longDescription": {
+        "default": "staffCarousel description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "staff-carousel Feature",
+        "description": "The feature that activates elements of the staff-carousel solution.",
+        "id": "bea28270-f83c-45d4-a44c-63a709f59c4a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/staff-carousel.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "staf-carousel-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/stafCarousel/StafCarouselWebPart.js",
+          "manifest": "./src/webparts/stafCarousel/StafCarouselWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "StafCarouselWebPartStrings": "lib/webparts/stafCarousel/loc/{locale}.js"
+  }
+}
